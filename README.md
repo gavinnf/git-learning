@@ -8,3 +8,5 @@ This is my second version.
 I understand the working directory.
 
 I understand the staging area.
+
+I understand commits.

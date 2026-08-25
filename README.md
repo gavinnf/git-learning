@@ -9,7 +9,7 @@ I understand the working directory.
 
 I understand the staging area.
 
-I understand commits.
+I understand Git commits really well.
 
 I am now learning about Git branches.
 

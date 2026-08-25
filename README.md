@@ -10,3 +10,5 @@ I understand the working directory.
 I understand the staging area.
 
 I understand commits.
+
+I am now learning about Git branches.
